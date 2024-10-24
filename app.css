@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+
+
+header{
+    background-color:  #21222A;
+    
+    
+
+}
+header h3 {
+    color: #61DAFB;
+    margin-left: 39px;
+    padding: 1rem;
+
+
+}
+.head{
+    background-color:#282D35;
+    /* height: 100; */
+   
+    
+}
+
+h1{
+    color: white;
+    padding: 3rem;
+}
+.list{
+    color: white;
+    padding-left: 5rem;
+    margin-top: 2rem;
+    margin: 1rem;
+    padding-bottom: 3rem;
+}
